@@ -1,6 +1,7 @@
 # RadioInfo
 
 Compiled using Android SDK 34, minimum 29
+
 Tested using Android 14
 
 Opens com.android.phone.settings.RadioInfo to modify cellular bands connection
